@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "120710296258",
+    "firebase_url": "https://abhichat-b2e9b.firebaseio.com",
+    "project_id": "abhichat-b2e9b",
+    "storage_bucket": "abhichat-b2e9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120710296258:android:6336ae463c1356f7",
+        "android_client_info": {
+          "package_name": "com.abhi.abhishek.abhichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120710296258-9n55ru1bddhl9vbhb0ldk38jl70qr3k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhi.abhishek.abhichat",
+            "certificate_hash": "1036b2a628dc8b2cce7307408802705bf2c4f747"
+          }
+        },
+        {
+          "client_id": "120710296258-kebqsn6ptt5o7rmau5b0ntjd5nlnhkhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2rLBXU_K5X4uqWxJG-xYTfRbmuYCV6Rc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120710296258-kebqsn6ptt5o7rmau5b0ntjd5nlnhkhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
